@@ -4,7 +4,6 @@ A motion/interaction study recreating an award-style agency site in vanilla HTML
 
 **Stack:** HTML, CSS, vanilla JavaScript (no frameworks, no build step).
 
-Demo video: [demo.mp4](./demo.mp4)
 
 ## Run locally
 
