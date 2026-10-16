@@ -2,7 +2,9 @@
 
 A motion/interaction study recreating an award-style agency site in vanilla HTML, CSS and JS. Inspired by trionn.com; built for learning, not affiliated.
 
-Demo video: [demo.mp4](./demo.mp4)
+[![Demo](./demo.webp)](./demo.mp4)
+
+_Click the preview for the full-quality video._
 
 **Stack:** HTML, CSS, vanilla JavaScript (no frameworks, no build step).
 
